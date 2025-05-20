@@ -6,7 +6,7 @@
 ## ❤️ Todo apoio é bem vindo ❤️
 |💳 Transferência Unibanco |🏦 Pix |💰 QR Code PayPal|🌍 Site PayPal|
 |----------------------------------- | -------------- |-------------------------|----------------------|
-| **Agência:** 8488 <br> **C/C:** 0047854-9| paim.mauricio@gmail.com|[![QR Code PayPal]([https://github.com/paimmauricio/Script-Rede/blob/main/QRs/QR_Code_PayPal.png](https://github.com/paimmauricio/paimmauricio/blob/main/QR_Code_PayPal.png))](https://github.com/paimmauricio/paimmauricio/blob/main/QR_Code_PayPal.png)|[Doação Direta pelo PayPal](https://www.paypal.com/donate?hosted_button_id=YJNX67EAAHNCU)|
+| **Agência:** 8488 <br> **C/C:** 0047854-9| paim.mauricio@gmail.com|[![QR Code PayPal]([](https://github.com/paimmauricio/paimmauricio/blob/main/QR_Code_PayPal.png))](https://github.com/paimmauricio/paimmauricio/blob/main/QR_Code_PayPal.png)|[Doação Direta pelo PayPal](https://www.paypal.com/donate?hosted_button_id=YJNX67EAAHNCU)|
 <!---
 paimmauricio/paimmauricio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
